@@ -2,16 +2,18 @@
 
 <h2 > ☀️ Hi, I’m Arcanjo 🌿</h2>
 
+  <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUxMWY2N3BvNXA0bjFuNWVzNmxsNTZkNnA3bWFqbzZoZ2trbjVpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVWeKWyh2p026Or91/giphy.gif">
+  
 -  ✨**I’m interested in**: Python, Back-End, Data Mining
-- 📒 **I’m currently learning:** Python, Javascript, R
-- 💞️ **I’m looking to collaborate on:** 
+- 📒 **I’m currently learning:** Python, Javascript, R  
 -  🧭**How to reach me** arcanjopuchalski@gmail.com
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** 
+- 😼👌 **Fun fact:** First Rule of programming: if it works dont change
 
 <hr></hr>
 
-<h2 > How to Reach Me:</h2>
+**How to Reach Me:**
+
 <a href="https://twitter.com/ag_puchalski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wesley_beatz" height="30" width="40" /></a>
 <a href="https://discord.gg/318053257790488576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="318053257790488576" height="30" width="40" /></a>
 
