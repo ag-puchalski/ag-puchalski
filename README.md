@@ -1,6 +1,6 @@
 [![MasterHead](https://media.giphy.com/media/jnWAi68AxKQKLwL1Dy/giphy.gif)](...)
 
-<h2 > ☀️ Hi, I’m Arcanjo 🌿</h2>
+<h2 align="center" > ☀️ Hi, I’m Arcanjo 🌿</h2>
 
   <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUxMWY2N3BvNXA0bjFuNWVzNmxsNTZkNnA3bWFqbzZoZ2trbjVpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVWeKWyh2p026Or91/giphy.gif">
   
