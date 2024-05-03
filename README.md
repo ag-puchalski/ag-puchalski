@@ -4,10 +4,10 @@
 
   <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUxMWY2N3BvNXA0bjFuNWVzNmxsNTZkNnA3bWFqbzZoZ2trbjVpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVWeKWyh2p026Or91/giphy.gif">
   
--  ✨**I’m interested in**: Python, Back-End, Data Mining
+- ✨ **I’m interested in**: Python, Back-End, Data Mining
 - 📒 **I’m currently learning:** Python, Javascript, R  
--  🧭**How to reach me** arcanjopuchalski@gmail.com
-- 😄 **Pronouns:** He/Him
+- 🧭 **How to reach me** arcanjopuchalski@gmail.com
+- 🦒 **Pronouns:** He/Him
 - 😼👌 **Fun fact:** First Rule of programming: if it works dont change
 
 <hr></hr>
