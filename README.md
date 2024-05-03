@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/GHKlVpc6ThFB9Zk41M/giphy.gif)](...)
+[![MasterHead](https://media.giphy.com/media/jnWAi68AxKQKLwL1Dy/giphy.gif)](...)
 
 <h2 > ☀️ Hi, I’m Arcanjo 🌿</h2>
 
